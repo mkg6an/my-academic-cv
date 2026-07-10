@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Meghan K Gerety"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -21,11 +21,10 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Meghan Gerety is a fourth-year PhD Candidate in Biostatistics at the University of Pennsylvania."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -73,7 +72,7 @@ hugoblox:
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "spacious"
     # Avatar shape in author profiles
-    avatar_shape: circle # circle | square | rounded
+    avatar_shape: rounded # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
