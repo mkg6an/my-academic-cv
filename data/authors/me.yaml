@@ -16,7 +16,7 @@ role: PhD Candidate in Biostatistics
 bio: |
   Hi! I am a fourth-year PhD Candidate in Biostatistics at the University of Pennsylvania building statistical methods 
   motivated by real-world problems in public health and clinical care. My disseration work focuses on causal inference
-  methods for longitudinal data in various complex, non-experimental settings. I have worked on studies with small sample sizes,  
+  methods for longitudinal data in various complex, non-experimental settings. I have worked on studies with small sample sizes, 
   estimands that are difficult to define, and that explore complex treatment patterns and structures. My ongoing and past projects 
   have also involved collaborations in nephrology, implementation science, reproductive health, and more. Currently, I am developing a 
   methodological framework for learning tailored multi-component interventions with applications to implementation science and health 
@@ -65,40 +65,48 @@ experience:
     org: University of Virginia School of Medicine 
     start: 2022-09-01
     end: 2023-05-31
-    category: research
+    tags:
+      - research
   - role: Epidemiology Research Intern 
     org: National Institute of Environmental Health Sciences, National Institutes of Health 
     start: 2022-06-01
     end: 2022-08-31
-    category: research
+    tags:
+      - research
   - role: Undergraduate Research Assistant (Bioinformatics) 
     org: University of Virginia
     start: 2021-02-01
     end: 2022-05-31
-    category: research
+    tags:
+      - research
   - role: Biostatistics Research Intern 
     org: MaineHealth Institute for Research 
     start: 2021-06-01
     end: 2021-08-31
-    category: research
+    tags:
+      - research
   - role: Teaching Assistant, BSTA 6700 Programming and Computation for Biomedical Data Science 
     org: University of Pennsylvania 
     start: 2026-01-01
     end: 2026-05-31
-    category: teaching
+    tags:
+      - teaching
   - role: Teaching Assistant, BSTA 6300 Statistical Methods and Data Analysis I
     org: University of Pennsylvania 
     start: 2024-08-01
     end: 2024-12-31
-    category: teaching
+    tags:
+      - teaching
   - role: Teaching Assistant, STAT 3220 Introduction to Regression Analysis 
     org: University of Virginia
     start: 2021-01-01
     end: 2022-05-31
-    category: teaching
+    tags:
+      - teaching
   - role: Teaching Assistant, STAT 3080 From Data to Knowledge 
     org: University of Virginia
     start: 2021-08-01
     end: 2022-05-31
-    category: teaching
+    tags:
+      - teaching
 

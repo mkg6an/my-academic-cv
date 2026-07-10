@@ -12,11 +12,17 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Education
+      username: me
+      filters:
+        tags: ['none'] # This tags filter usually only hits EXPERIENCE, leaving Education untouched
+  - block: resume-experience
+    content:
       username: me
       title: Research Experience
       # If your template supports tag filters in this block:
       filters:
-       tag: 'research' 
+       tag: ['research'] 
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -26,6 +32,7 @@ sections:
     content:
       title: Teaching Experience
       username: me
+      is_education_first: false
       filters:
-       tag: 'teaching'
+       tag: ['teaching']
 ---
