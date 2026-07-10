@@ -35,7 +35,6 @@ interests:
   - Causal Inference
   - Complex Longitudinal Data
   - Survival Analysis
-  - AI Ethics
 
 education:
   - degree: PhD Biostatistics
@@ -78,3 +77,22 @@ experience:
     org: MaineHealth Institute for Research 
     start: 2021-06-01
     end: 2021-08-31
+
+teaching:
+  - role: Teaching Assistant, BSTA 6700 Programming and Computation for Biomedical Data Science 
+    org: University of Pennsylvania 
+    start: 2026-01-01
+    end: 2026-05-31
+  - role: Teaching Assistant, BSTA 6300 Statistical Methods and Data Analysis I
+    org: University of Pennsylvania 
+    start: 2024-08-01
+    end: 2024-12-31
+  - role: Teaching Assistant, STAT 3220 Introduction to Regression Analysis 
+    org: University of Virginia
+    start: 2021-01-01
+    end: 2022-05-31
+  - role: Teaching Assistant, STAT 3080 From Data to Knowledge 
+    org: University of Virginia
+    start: 2021-08-01
+    end: 2022-05-31
+
