@@ -13,13 +13,19 @@ sections:
   - block: resume-experience
     content:
       username: me
+      title: Research Experience
+      # If your template supports tag filters in this block:
+      filters:
+       tag: 'research' 
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-teaching
+  - block: resume-experience
     content:
       title: Teaching Experience
       username: me
+      filters:
+       tag: 'teaching'
 ---
