@@ -12,6 +12,15 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Education
       username: me
-      is_education_first: false
+      filters:
+        tags: ['none'] # This tags filter usually only hits EXPERIENCE, leaving Education untouched
+  - block: resume-experience
+    content:
+      username: me
+      title: 'Research Experience'
+      # If your template supports tag filters in this block:
+      filters:
+       tag: ['Research'] 
 ---
