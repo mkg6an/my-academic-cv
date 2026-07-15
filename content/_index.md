@@ -6,7 +6,7 @@ date: 2026-07-10
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -21,7 +21,6 @@ sections:
         interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-      columns: 1
       background:
         gradient_mesh:
           enable: true
