@@ -1,17 +1,3 @@
-
-/* Center the avatar and name section */
-.resume-biography-3 .flex-col.items-center {
-  @apply mx-auto text-center;
-}
-/* Center the biography text and its heading */
-.resume-biography-3 .prose {
-  @apply mx-auto text-center;
-}
-/* Adjust the grid to give the centered elements full width */
-.resume-biography-3 .grid-cols-1 {
-  @apply justify-items-center;
-}
-
 /* Container for the education tiles */
 .resume-biography-3 .education-list-item {
   @apply p-3 mb-2 max-w-sm; /* Reduces padding and width */
