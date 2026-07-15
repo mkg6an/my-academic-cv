@@ -17,11 +17,10 @@ bio: |
   Hi! I am a fourth-year PhD Candidate in Biostatistics at the University of Pennsylvania building statistical methods 
   motivated by real-world problems in public health and clinical care. My disseration work focuses on causal inference
   methods for longitudinal data in various complex, non-experimental settings. I have worked on studies with small sample sizes, 
-  estimands that are difficult to define, and that explore complex treatment patterns and structures. My ongoing and past projects 
-  have also involved collaborations in nephrology, implementation science, reproductive health, and more. Currently, I am developing a 
+  estimands that are difficult to define, and that explore complex treatment patterns and structures. Currently, I am developing a 
   methodological framework for learning tailored multi-component interventions with applications to implementation science and health 
-  policy. I love research, and hope to continue innovating statistical methods motivated by and implemented
-  in collaborative projects in my career. 
+  policy. My other ongoing and past projects include collaborative studies in nephrology and perinatal health. I love research, and hope
+  to continue innovating statistical methods motivated by and implemented in collaborative projects in my career. 
 
 links:
   - icon: brands/linkedin
@@ -39,26 +38,23 @@ interests:
 education:
   - degree: PhD Biostatistics
     institution: University of Pennsylvania
-    start: 2023-08-20
+    end: Ongoing
     summary: |
       Completing dissertation work involving complex longitudinal data and methods for causal inference.
        Advised by Nicholas J. Seewald, PhD
   - degree: MS Biostatistics
     institution: University of Pennsylvania
-    start: 2023-08-20
-    end: 2025-05-20
+    end: May 2025
     summary: |
       Thesis: Long-Term Comparative Effectiveness of Rituximab vs. Calcineurin Inhibitors 
       for the Treatment of Membranous Nephropathy: A Retrospective Matched Cohort Study. 
       Advised by Jarcy Zee, PhD.
   - degree: MS Statistics
     institution: Univeristy of Virginia
-    start: 2022-08-20
-    end: 2023-05-20
+    end: May 2023
   - degree: BA Statistics and Global Public Health
     institution: Univeristy of Virginia
-    start: 2019-08-20
-    end: 2022-05-20
+    end: May 2022
 
 experience:
   - role: Graduate Research Assistant (Biostatistics) 
