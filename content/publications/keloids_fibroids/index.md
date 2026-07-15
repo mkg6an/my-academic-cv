@@ -10,10 +10,6 @@ doi: "10.1016/j.xfss.2023.03.006"
 publication_types: ["article-journal"]
 publication:
   name: "F&S Science"
-
-abstract: "Objective:  | 
- Design:| 
-  | Result(s):  | 
 abstract: |
   **Objective**  
   To examine the association between keloids, hypertrophic scars, and uterine fibroid incidence as well as growth. Both keloids and fibroids are fibroproliferative conditions that have been reported to be more prevalent among Blacks than Whites, and they share similar fibrotic tissue structures, including extracellular matrix composition, gene expression, and protein profiles. We hypothesized that women with a history of keloids would have greater uterine fibroid development.
@@ -31,7 +27,6 @@ abstract: |
   Of the 1,230 fibroid-free participants, 199 (16%) reported ever having keloids, 578 (47%) reported keloids or hypertrophic scars, and 293 (24%) developed incident fibroids. Neither keloids (adjusted hazard ratio = 1.04; 95% confidence interval: 0.77, 1.40) nor any abnormal scarring (adjusted hazard ratio = 1.10; 95% confidence interval: 0.88, 1.38) were associated with fibroid incidence. Fibroid growth differed little by scarring status.  
   **Conclusion(s)**
   Despite molecular similarities, self-reported keloid and hypertrophic scars did not show an association with fibroid development. Future research may benefit from the examination of dermatologist-confirmed keloids or hypertrophic scars; however, our data suggest little shared susceptibility for these 2 types of fibrotic conditions.
- 
 toc: false           # Hide Table of Contents
 reading_time: false # Hide "X min read"
 share: false 

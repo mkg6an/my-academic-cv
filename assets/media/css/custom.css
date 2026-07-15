@@ -1,0 +1,30 @@
+
+/* Center the avatar and name section */
+.resume-biography-3 .flex-col.items-center {
+  @apply mx-auto text-center;
+}
+/* Center the biography text and its heading */
+.resume-biography-3 .prose {
+  @apply mx-auto text-center;
+}
+/* Adjust the grid to give the centered elements full width */
+.resume-biography-3 .grid-cols-1 {
+  @apply justify-items-center;
+}
+
+/* Container for the education tiles */
+.resume-biography-3 .education-list-item {
+  @apply p-3 mb-2 max-w-sm; /* Reduces padding and width */
+}
+/* Shrink the degree/heading text */
+.resume-biography-3 .education-list-item h3 {
+  @apply text-sm font-semibold mb-0;
+}
+/* Shrink the institution and date text */
+.resume-biography-3 .education-list-item p {
+  @apply text-xs leading-tight text-gray-500 m-0;
+}
+/* Specifically target the date formatting to ensure it's petite */
+.resume-biography-3 .education-list-item time {
+  @apply text-[10px] uppercase tracking-wider font-medium;
+}

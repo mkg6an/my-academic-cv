@@ -6,7 +6,7 @@ date: 2026-07-10
 type: landing
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -36,6 +36,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      id: papers
       text: ''
       filters:
         folders:
