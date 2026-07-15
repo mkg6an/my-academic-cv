@@ -19,15 +19,8 @@ sections:
   - block: resume-experience
     content:
       username: me
-      title: Research Experience
+      title: 'Research Experience'
       # If your template supports tag filters in this block:
       filters:
-       tag: ['research'] 
-  - block: resume-experience
-    content:
-      title: Teaching Experience
-      username: me
-      is_education_first: false
-      filters:
-       tag: ['teaching']
+       tag: ['Research'] 
 ---

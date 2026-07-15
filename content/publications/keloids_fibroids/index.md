@@ -28,7 +28,7 @@ abstract: |
   **Conclusion(s)**
   Despite molecular similarities, self-reported keloid and hypertrophic scars did not show an association with fibroid development. Future research may benefit from the examination of dermatologist-confirmed keloids or hypertrophic scars; however, our data suggest little shared susceptibility for these 2 types of fibrotic conditions.
 toc: false           # Hide Table of Contents
-reading_time: false # Hide "X min read"
+reading_time: false 
 share: false 
 links: []
 ---
