@@ -34,19 +34,20 @@ sections:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square # Options: circle (default), square, rounded
   - block: markdown
+    id: research
     content:
       title: 'Research Summary'
       subtitle: ''
       text: |-
         My disseration work focuses on design considerations and causal inference methods for challenging longitudinal studies. Specifically, I have worked on problems complicated by small sample sizes, estimands that are difficult to define, and complex treatment patterns and structures. My first dissertation project discusses appropriate statistical methods for comparing survival outcomes under two different schedules of the same repeated treatment, such as annual versus biennial mammography screening, within the target trial emulation framework. Currently, I am developing a methodological framework for learning tailored multi-component interventions with applications to implementation science and health policy. 
         
-        My other ongoing and past projects include collaborative studies in areas such as nephrology and perinatal health. I have worked directly with clinicians, biologists, and epidemiologists in my past positions, and have experience translating statistical methods and study results for various audiences. During my PhD program, I have had the opporunity to present original research at both clinical and statistical conferences. 
+        My other ongoing and past projects include collaborative studies in areas such as nephrology and perinatal health. I have worked directly with clinicians, biologists, and epidemiologists in my past positions, and have experience translating statistical methods and study results for various audiences. During my PhD program, I have had the opporunity to present original research at both clinical and statistical conferences. I love research, and aim to continue innovating statistical methods motivated by and implemented in collaborative projects throughout my career. 
     design:
       columns: '1'
   - block: collection
+    id: papers
     content:
       title: Recent Publications
-      id: papers
       text: ''
       filters:
         folders:
