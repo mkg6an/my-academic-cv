@@ -7,8 +7,8 @@
 
 #research .max-w-prose {
   /* This matches the standard container width of collection lists */
-  max-width: 1140px !important; 
+  max-width: 1000px !important; 
   /* Standard size for citation/meta text in publications */
-  font-size: 0.875rem !important; 
+  font-size: 1rem !important; 
   line-height: 1.625rem !important;
 }
