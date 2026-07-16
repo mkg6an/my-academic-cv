@@ -15,7 +15,7 @@ status:
 role: PhD Candidate in Biostatistics
 bio: |
   Hi! I am a fourth-year PhD Candidate in Biostatistics at the University of Pennsylvania building statistical methods 
-  motivated by real-world problems in public health and clinical care. My disseration work focuses on causal inference
+  motivated by real-world problems in public health and clinical care. My [disseration work](\#research), advised by [Dr. Nicholas J. Seewald](https://www.nickseewald.com/), focuses on causal inference
   methods for longitudinal data in various complex, non-experimental settings. 
 
 links:
@@ -29,6 +29,7 @@ links:
 interests:
   - Causal Inference
   - Complex Longitudinal Data
+  - Treatment Regimes
   - Survival Analysis
 
 education:
