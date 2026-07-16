@@ -5,18 +5,10 @@
   line-height: 1.5rem !important;
 }
 
-/* 1. Remove the "reading width" restriction */
 #research .max-w-prose {
-  max-width: 100% !important; 
-}
-/* 2. Remove the side padding that keeps markdown blocks narrow */
-#research .container {
-  max-width: 100% !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-/* 3. Apply your preferred small font size */
-#research p, #research li {
-  font-size: 0.875rem !important; /* Start with text-sm; change to 0.75rem if you want it even smaller */
-  line-height: 1.6 !important;
+  /* This matches the standard container width of collection lists */
+  max-width: 1140px !important; 
+  /* Standard size for citation/meta text in publications */
+  font-size: 0.875rem !important; 
+  line-height: 1.625rem !important;
 }
