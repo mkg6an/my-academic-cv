@@ -288,7 +288,7 @@ hugoblox:
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
 
-  # Add this at the bottom of the file
-  plugins:
-    css:
-      - custom
+# Add this at the bottom of the file
+plugins:
+  css:
+    - custom
