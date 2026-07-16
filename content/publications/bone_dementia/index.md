@@ -24,8 +24,9 @@ publication:
 toc: false           # Hide Table of Contents
 reading_time: false # Hide "X min read"
 share: false 
+profile: false 
 abstract: |
-  '<span class="text-sm">
+  <span class="text-sm">
   **Background**  
   It is not known whether bone mineral density (BMD) measured at baseline or as the rate of decline prior to baseline (prior bone loss) is a stronger predictor of incident dementia or Alzheimer's disease (AD). 
   **Methods**  
@@ -34,7 +35,7 @@ abstract: |
   The combined sample size across all three studies was 4431 with 606 incident dementia diagnoses, 498 of which were AD. A meta-analysis of baseline BMD across three studies showed higher BMD to have a significant protective association with incident dementia with a hazard ratio of 0.47 (95% CI: 0.23–0.96; p = 0.038) per increase in g/cm2, or 0.91 (95% CI: 0.84–0.995) per standard deviation increase. We observed a significant association between prior bone loss and incident dementia with a hazard ratio of 1.30 (95% CI: 1.12–1.51; p < 0.001) per percent increase in prior bone loss only in the FHS cohort.  
   **Conclusions**  
   Baseline BMD but not prior bone loss was associated with incident dementia in a meta-analysis across three studies.
-  </span>'
+  </span>
 links: []
 ---
 
