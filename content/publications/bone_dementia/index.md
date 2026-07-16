@@ -27,7 +27,7 @@ share: false
 profile: false 
 abstract: |
   **Background**  
-  It is not known whether bone mineral density (BMD) measured at baseline or as the rate of decline prior to baseline (prior bone loss) is a stronger predictor of incident dementia or Alzheimer's disease (AD). 
+  It is not known whether bone mineral density (BMD) measured at baseline or as the rate of decline prior to baseline (prior bone loss) is a stronger predictor of incident dementia or Alzheimer's disease (AD).  
   **Methods**  
   We performed a meta-analysis of three longitudinal studies, the Framingham Heart Study (FHS), the Rotterdam Study (RS), and the Rush Memory and Aging Project (MAP), modeling the time to diagnosis of dementia as a function of BMD measures accounting for covariates. We included individuals with one or two BMD assessments, aged ≥60 years, and free of dementia at baseline with follow-up available. BMD was measured at the hip femoral neck using dual-energy X-ray absorptiometry (DXA), or at the heel calcaneus using quantitative ultrasound to calculate estimated BMD (eBMD). BMD at study baseline (“baseline BMD”) and annualized percentage change in BMD prior to baseline (“prior bone loss”) were included as continuous measures. The primary outcome was incident dementia diagnosis within 10 years of baseline, and incident AD was a secondary outcome. Baseline covariates included age, sex, body mass index, ApoE4 genotype, and education.  
   **Results**  

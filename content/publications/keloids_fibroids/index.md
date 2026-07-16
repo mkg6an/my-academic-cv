@@ -20,7 +20,7 @@ abstract: |
   Detroit, Michigan area.   
   **Patients**  
   A total of 1,610 self-identified Black and/or African American women aged 23-35 years at enrollment without a previous clinical diagnosis of fibroids.  
-  **Exposure(s)** 
+  **Exposure(s)**  
   Keloids (raised scars that grow beyond the margins of the original injury) and hypertrophic scars (raised scars that stay within the bounds of the original injury). Because of the difficulties in distinguishing keloids and hypertrophic scars, we separately examined the history of keloids and the history of either keloids or hypertrophic scars (any abnormal scarring) and their associations with fibroid incidence and growth.  
   **Main Outcome Measure(s)**  
   Fibroid incidence (new fibroid after a fibroid-free ultrasound at enrollment) was assessed using Cox proportional-hazards regression. Fibroid growth was assessed using linear mixed models. The estimates for the change in log volume per 18 months were converted to the estimated percentage difference in volume for scarring vs. no-scarring. Both incidence and growth models were adjusted for time-varying demographic, reproductive, and anthropometric factors.  
