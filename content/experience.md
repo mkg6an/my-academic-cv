@@ -10,7 +10,7 @@ sections:
   - block: markdown
     content:
       text: |
-        <a class="button button-primary" href="/uploads/resume.pdf">
+        <a class="button button-primary" href="{{< relref "uploads/resume.pdf" >}}">
           Download CV for Details!
         </a>
 

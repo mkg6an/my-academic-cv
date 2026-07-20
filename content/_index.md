@@ -66,9 +66,8 @@ sections:
       filters:
         folders:
           - events
-      count: 1
-      sort_by: 'date'
-      sort_ascending: false
+        exclude_past: true
+      count: 3
     design:
       view: card
       show_tags: true
