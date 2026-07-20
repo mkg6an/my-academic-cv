@@ -40,6 +40,8 @@ education:
     summary: |
       Completing dissertation work on methods for causal inference with complex longitudinal data.
        Advised by Nicholas J. Seewald, PhD
+    tags:
+      - education
   - degree: MS, Biostatistics
     institution: University of Pennsylvania
     start: 2023-08-01
@@ -48,14 +50,20 @@ education:
       Thesis: Long-Term Comparative Effectiveness of Rituximab vs. Calcineurin Inhibitors 
       for the Treatment of Membranous Nephropathy: A Retrospective Matched Cohort Study. 
       Advised by Jarcy Zee, PhD.
+    tags:
+      - education
   - degree: MS, Statistics
     institution: Univeristy of Virginia
     start: 2022-08-01
     end: 2023-05-30
+    tags:
+      - education
   - degree: BA, Statistics and Global Public Health
     institution: Univeristy of Virginia
     start: 2019-08-01
     end: 2022-05-30
+    tags:
+      - education
 
 experience:
   - role: Graduate Research Assistant (Biostatistics) 

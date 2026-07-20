@@ -10,49 +10,27 @@ design:
 
 # Page sections
 sections:
-  # - block: resume-experience
-  #   content:
-  #     title: Education
-  #     username: me
-  #     filters:
-  #       tags: ['none'] # This tags filter usually only hits EXPERIENCE, leaving Education untouched
-  # - block: resume-experience
-  #   content:
-  #     username: me
-  #     title: 'Research Experience'
-  #     # If your template supports tag filters in this block:
-  #     filters:
-  #      tag: ['Research'] 
-
-  # content/_index.md (inside the sections array)
-
-# Stack 1: Research
-  - block: collection
+  - block: resume-experience
     content:
       title: Research Experience
       username: me
-      filters:
-        tags: [research] # Only shows items tagged 'research'
     design:
-      view: resume-experience
+      tag_filter: research  # <--- This is the key "filter" for the profile list
+      date_format: "Jan 2006"
 
-# Stack 2: Teaching
-  - block: collection
+  - block: resume-experience
     content:
       title: Teaching Experience
       username: me
-      filters:
-        tags: [research] # Only shows items tagged 'research'
     design:
-      view: resume-experience
+      tag_filter: teaching
+      date_format: "Jan 2006"
 
-  # Stack 3: Education
-  - block: collection
+  - block: resume-experience
     content:
       title: Education
       username: me
-      filters:
-        folders: [education]
     design:
-      view: resume-experience
+      tag_filter: education # Only shows items in me.yaml tagged 'education'
+      date_format: "Jan 2006"
 ---
