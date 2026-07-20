@@ -7,7 +7,7 @@ sections:
     content:
       title: Research Experience # Correctly indented
       filters:
-        folders: [experience]
+        folders: ["."] 
         tags: [research]
     design:
       view: resume-experience
@@ -17,7 +17,7 @@ sections:
     content:
       title: Teaching Experience # Correctly indented
       filters:
-        folders: [experience]
+        folders: ["."] 
         tags: [teaching]
     design:
       view: resume-experience
