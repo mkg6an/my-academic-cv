@@ -12,21 +12,3 @@
   font-size: 1.25rem !important; 
   line-height: 1.875rem !important;
 }
-
-/* --- RESEARCH SECTION --- */
-/* Hide anything NOT tagged 'research' and hide the Education column */
-#research-only .resume-experience-item:not(.research),
-#research-only .resume-education-list {
-  display: none !important;
-}
-/* --- TEACHING SECTION --- */
-/* Hide anything NOT tagged 'teaching' and hide the Education column */
-#teaching-only .resume-experience-item:not(.teaching),
-#teaching-only .resume-education-list {
-  display: none !important;
-}
-/* --- EDUCATION SECTION --- */
-/* Hide the Work/Experience column entirely */
-#edu-only .resume-experience-list {
-  display: none !important;
-}
