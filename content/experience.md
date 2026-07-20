@@ -32,7 +32,6 @@ sections:
       title: Research Experience
       username: me
       filters:
-        folders: [experience]
         tags: [research] # Only shows items tagged 'research'
     design:
       view: resume-experience
@@ -43,7 +42,6 @@ sections:
       title: Teaching Experience
       username: me
       filters:
-        folders: [experience]
         tags: [research] # Only shows items tagged 'research'
     design:
       view: resume-experience
