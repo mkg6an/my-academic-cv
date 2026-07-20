@@ -7,11 +7,13 @@ design:
   spacing: '5rem'
 
 sections:
+  - block: cta-button
+    content:
+      text: Download CV for Details!
+      url: uploads/resume.pdf
+      
   - block: resume-experience
     content:
-      button:
-        text: Download CV for Details!
-        url: uploads/resume.pdf
       username: me
     design:
       date_format: 'Jan 2006'
