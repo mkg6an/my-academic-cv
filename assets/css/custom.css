@@ -10,5 +10,20 @@
   max-width: 1000px !important; 
   /* Standard size for citation/meta text in publications */
   font-size: 1.25rem !important; 
-  line-height: 1.75rem !important;
+  line-height: 1.875rem !important;
+}
+
+/* Target the education list specifically within the bio block */
+.resume-biography-3 .education-list {
+  display: flex !important;
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  justify-content: center; /* Centers the items */
+  gap: 2rem;
+  max-width: 1200px; /* Force it wider than the bio text */
+  margin: 0 auto;
+}
+/* Force items to take up equal space in the row */
+.resume-biography-3 .education-item {
+  flex: 1 1 200px; 
+  text-align: center;
 }

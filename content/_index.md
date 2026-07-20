@@ -21,6 +21,7 @@ sections:
         education: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      date_format: "Jan 2006"
       background:
         gradient_mesh:
           enable: true
