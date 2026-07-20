@@ -35,8 +35,8 @@ interests:
 education:
   - degree: PhD, Biostatistics
     institution: University of Pennsylvania
-    start: 2023-08-01
-    end: Present
+    date_start: 2023-08-01
+    date_end: Present
     summary: |
       Completing dissertation work on methods for causal inference with complex longitudinal data.
        Advised by Nicholas J. Seewald, PhD
@@ -44,8 +44,8 @@ education:
       - education
   - degree: MS, Biostatistics
     institution: University of Pennsylvania
-    start: 2023-08-01
-    end: 2025-05-30
+    date_start: 2023-08-01
+    date_end: 2025-05-30
     summary: |
       Thesis: Long-Term Comparative Effectiveness of Rituximab vs. Calcineurin Inhibitors 
       for the Treatment of Membranous Nephropathy: A Retrospective Matched Cohort Study. 
@@ -54,14 +54,14 @@ education:
       - education
   - degree: MS, Statistics
     institution: Univeristy of Virginia
-    start: 2022-08-01
-    end: 2023-05-30
+    date_start: 2022-08-01
+    date_end: 2023-05-30
     tags:
       - education
   - degree: BA, Statistics and Global Public Health
     institution: Univeristy of Virginia
-    start: 2019-08-01
-    end: 2022-05-30
+    date_start: 2019-08-01
+    date_end: 2022-05-30
     tags:
       - education
 

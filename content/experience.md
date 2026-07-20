@@ -10,27 +10,22 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: collection
     content:
       title: Research Experience
-      username: me
+      filters:
+        folders: [experience]
+        tags: [research]
     design:
-      tag_filter: research  # <--- This is the key "filter" for the profile list
+      view: resume-experience
       date_format: "Jan 2006"
-
-  - block: resume-experience
+  - block: collection
     content:
       title: Teaching Experience
-      username: me
+      filters:
+        folders: [experience]
+        tags: [teaching]
     design:
-      tag_filter: teaching
-      date_format: "Jan 2006"
-
-  - block: resume-experience
-    content:
-      title: Education
-      username: me
-    design:
-      tag_filter: education # Only shows items in me.yaml tagged 'education'
+      view: resume-experience
       date_format: "Jan 2006"
 ---
