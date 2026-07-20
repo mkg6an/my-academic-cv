@@ -66,7 +66,6 @@ sections:
       filters:
         folders:
           - events
-        exclude_past: true
     design:
       view: card
 
