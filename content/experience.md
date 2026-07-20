@@ -10,17 +10,51 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  # - block: resume-experience
+  #   content:
+  #     title: Education
+  #     username: me
+  #     filters:
+  #       tags: ['none'] # This tags filter usually only hits EXPERIENCE, leaving Education untouched
+  # - block: resume-experience
+  #   content:
+  #     username: me
+  #     title: 'Research Experience'
+  #     # If your template supports tag filters in this block:
+  #     filters:
+  #      tag: ['Research'] 
+
+  # content/_index.md (inside the sections array)
+
+# Stack 1: Research
+  - block: collection
+    content:
+    title: Research Experience
+    username: me
+    filters:
+      folders: [experience]
+      tags: [research] # Only shows items tagged 'research'
+    design:
+      view: resume-experience
+
+# Stack 2: Teaching
+  - block: collection
+    content:
+      title: Teaching Experience
+      username: me
+      filters:
+        folders: [experience]
+        tags: [research] # Only shows items tagged 'research'
+    design:
+      view: resume-experience
+
+  # Stack 3: Education
+  - block: collection
     content:
       title: Education
       username: me
       filters:
-        tags: ['none'] # This tags filter usually only hits EXPERIENCE, leaving Education untouched
-  - block: resume-experience
-    content:
-      username: me
-      title: 'Research Experience'
-      # If your template supports tag filters in this block:
-      filters:
-       tag: ['Research'] 
+        folders: [education]
+    design:
+      view: resume-experience
 ---
