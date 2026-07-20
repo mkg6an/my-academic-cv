@@ -13,17 +13,20 @@
   line-height: 1.875rem !important;
 }
 
-/* Target the education list specifically within the bio block */
-.resume-biography-3 .education-list {
-  display: flex !important;
-  flex-wrap: wrap; /* Allows wrapping on smaller screens */
-  justify-content: center; /* Centers the items */
-  gap: 2rem;
-  max-width: 1200px; /* Force it wider than the bio text */
-  margin: 0 auto;
+/* --- RESEARCH SECTION --- */
+/* Hide anything NOT tagged 'research' and hide the Education column */
+#research-only .resume-experience-item:not(.research),
+#research-only .resume-education-list {
+  display: none !important;
 }
-/* Force items to take up equal space in the row */
-.resume-biography-3 .education-item {
-  flex: 1 1 200px; 
-  text-align: center;
+/* --- TEACHING SECTION --- */
+/* Hide anything NOT tagged 'teaching' and hide the Education column */
+#teaching-only .resume-experience-item:not(.teaching),
+#teaching-only .resume-education-list {
+  display: none !important;
+}
+/* --- EDUCATION SECTION --- */
+/* Hide the Work/Experience column entirely */
+#edu-only .resume-experience-list {
+  display: none !important;
 }

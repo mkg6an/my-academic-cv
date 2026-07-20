@@ -21,6 +21,8 @@ event_all_day: false
 reading_time: false # Hide "X min read"
 share: false 
 
+profile: false 
+
 authors:
   - me
 
@@ -28,9 +30,12 @@ tags:
   - [poster]
 
 links:
-  - icon: slides-logo.svg
-    name: Poster PDF 
-    url: https://drive.google.com/file/d/161nHe_sHsFMy4EE02FDCx3p76Z3jNou0/view?usp=drive_link
+  - name: Poster PDF 
+    url: uploads/JSM2025.pdf
+
+image:
+  caption: 'JSM 2025 Poster Preview'
+  focal_point: Right
 
 projects: []
 ---

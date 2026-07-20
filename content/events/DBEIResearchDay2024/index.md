@@ -24,6 +24,8 @@ share: false
 authors:
   - me
 
+profile: false 
+
 tags:
   - [poster]
 

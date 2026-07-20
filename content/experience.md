@@ -1,25 +1,25 @@
 ---
-title: 'Experience'
-date: 2023-10-24
-type: landing
 sections:
-  - block: collection
+  - block: resume-experience
+    id: research-only
     content:
-      title: Research Experience # Correctly indented
-      filters:
-        folders: ["."] 
-        tags: [research]
+      title: Research Experience
+      username: me
     design:
-      view: resume-experience
-      date_format: "January 2006"
-
-  - block: collection
+      date_format: "Jan 2006"
+  - block: resume-experience
+    id: teaching-only
     content:
-      title: Teaching Experience # Correctly indented
-      filters:
-        folders: ["."] 
-        tags: [teaching]
+      title: Teaching Experience
+      username: me
     design:
-      view: resume-experience
-      date_format: "January 2006"
+      date_format: "Jan 2006"
+  - block: resume-experience
+    id: edu-only
+    content:
+      title: Education
+      username: me
+    design:
+      date_format: "Jan 2006"
+      is_education_first: true
 ---

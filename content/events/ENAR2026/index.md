@@ -24,13 +24,18 @@ share: false
 authors:
   - me
 
+profile: false 
+
 tags:
   - [talk]
 
 links:
-  - icon: slides-logo.svg
-    name: Slides
-    url: https://drive.google.com/file/d/1xYtWjI-xmHJwrzXBooyt7w0RYldBQW8G/view?usp=sharing
+  - name: Slides
+    url: uploads/ENAR2026.pdf
+
+image:
+  caption: 'ENAR 2026 Talk Preview'
+  focal_point: Right
 
 projects: []
 ---

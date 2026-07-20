@@ -23,14 +23,18 @@ share: false
 
 authors:
   - me
+profile: false 
 
 tags:
   - [poster]
 
 links:
-  - icon: slides-logo.svg
-    name: Poster PDF 
-    url: https://drive.google.com/file/d/14_FMEaxDg3O6UxugUIAdeHfkfyaeBB_G/view?usp=sharing
+  - name: Poster PDF 
+    url: uploads/ASN2025.pdf
+
+image:
+  caption: 'Presenting at ASN 2025'
+  focal_point: Right
 
 projects: []
 ---

@@ -20,12 +20,18 @@ event_all_day: false
 
 authors:
   - me
+profile: false 
+
   
 reading_time: false # Hide "X min read"
 share: false 
 
 tags:
   - [talk]
+
+image:
+  caption: 'Image Credit: American Statistical Association'
+  focal_point: Right
 
 links:
   - name: Session Info
