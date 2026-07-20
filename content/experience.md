@@ -7,13 +7,6 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: markdown
-    content:
-      text: |
-        <a class="button button-primary" href="{{< relref "uploads/resume.pdf" >}}">
-          Download CV for Details!
-        </a>
-
   - block: resume-experience
     content:
       username: me
