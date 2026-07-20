@@ -7,11 +7,13 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: cta-button
+  - block: markdown
     content:
-      text: Download CV for Details!
-      url: uploads/resume.pdf
-      
+      text: |
+        <a class="button button-primary" href="/uploads/resume.pdf">
+          Download CV for Details!
+        </a>
+
   - block: resume-experience
     content:
       username: me
