@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2026-07-10
+date: 2026-07-20
 type: landing
 
 sections:
@@ -66,11 +66,12 @@ sections:
       filters:
         folders:
           - events
-        future_only: true
+        exclude_past: true
       count: 3
     design:
       view: card
       show_tags: true
+      show_read_time: false
 
   - block: cta-card
     design:

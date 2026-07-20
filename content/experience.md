@@ -8,6 +8,9 @@ design:
 
 sections:
   - block: resume-experience
+    button:
+        text: Download CV for Details!
+        url: uploads/resume.pdf
     content:
       username: me
     design:

@@ -13,4 +13,5 @@ sections:
     design:
       view: card
       show_tags: true
+      show_read_time: false
 ---
