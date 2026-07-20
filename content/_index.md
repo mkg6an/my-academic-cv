@@ -60,14 +60,17 @@ sections:
       view: citation
 
   - block: collection
-    id: talks
+    id: upcoming-talks
     content:
       title: Upcoming Talks
       filters:
         folders:
           - events
+        future_only: true
+      count: 3
     design:
       view: card
+      show_tags: true
 
   - block: cta-card
     design:

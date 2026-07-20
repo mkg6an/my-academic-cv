@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2026-07-20
+date: 2023-10-24
 type: landing
 
 design:
@@ -11,6 +11,7 @@ sections:
     content:
       username: me
     design:
-      date_format: "Jan 2006"
+      date_format: 'Jan 2006'
+      # Education or Experience section first?
       is_education_first: false
 ---
