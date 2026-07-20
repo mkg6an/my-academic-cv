@@ -13,7 +13,7 @@ address:
   country: United States
 
 # Talk start and end times.
-event_start: '2021-08-1208:00:00Z'
+event_start: '2021-08-12T08:00:00Z'
 event_end: '2021-08-12T09:30:00Z'
 event_all_day: false
 
