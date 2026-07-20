@@ -29,11 +29,11 @@ sections:
 # Stack 1: Research
   - block: collection
     content:
-    title: Research Experience
-    username: me
-    filters:
-      folders: [experience]
-      tags: [research] # Only shows items tagged 'research'
+      title: Research Experience
+      username: me
+      filters:
+        folders: [experience]
+        tags: [research] # Only shows items tagged 'research'
     design:
       view: resume-experience
 
