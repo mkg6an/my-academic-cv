@@ -21,12 +21,12 @@ sections:
         Winter 2024, 2025, 2026
 
         - Student Leader for GGEB Recruitment Day, 2026
+
+         **Inaugural Co-Director, Data Science Agency**  
+        University of Virginia Student Council  
+        Oct 2020 – April 2022
       
         **Echols Scholars Program Ambassador**  
         Echols Scholars Program, University of Virginia  
         Oct 2019 – May 2023
-
-        **Inaugural Co-Director, Data Science Agency**  
-        University of Virginia Student Council  
-        Oct 2020 – April 2022
 ---
