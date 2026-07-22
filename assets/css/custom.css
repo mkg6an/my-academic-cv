@@ -14,9 +14,15 @@
 }
 
 #service .container {
-  max-width: 1200px;
+  max-width: 1200px !important;
+  width: 100% !important;
 }
 
 #service .markdown {
-  max-width: 100%;
+  max-width: none !important;
+}
+
+#service .section-heading,
+#service .article-style {
+  max-width: none !important;
 }
