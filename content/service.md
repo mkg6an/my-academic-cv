@@ -3,7 +3,7 @@ title: Service
 type: landing
 
 sections:
-  - block: resume
+  - block: collection
     id: service
     content:
       title: Service and Leadership
@@ -11,7 +11,7 @@ sections:
         folders:
           - service_leadership
     design:
-      view: compact
+      view: list
       show_tags: true
       show_read_time: false
 ---
