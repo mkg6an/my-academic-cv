@@ -19,6 +19,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Service and Leadership
+  - name: Service
     url: service/
     weight: 30
