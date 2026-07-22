@@ -12,3 +12,11 @@
   font-size: 1.25rem !important; 
   line-height: 1.875rem !important;
 }
+
+#service .container {
+  max-width: 1000px;
+}
+
+#service .markdown {
+  max-width: 100%;
+}
