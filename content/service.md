@@ -3,7 +3,7 @@ title: Service
 type: landing
 
 sections:
-  - block: collection
+  - block: resume
     id: service
     content:
       title: Service and Leadership
