@@ -3,7 +3,7 @@ title: Talks
 type: landing
 
 sections:
-  - block: experience
+  - block: collection
     id: talks
     content:
       title: Upcoming & Recent Talks
@@ -11,6 +11,7 @@ sections:
         folders:
           - events
     design:
+      view: card
       show_tags: true
       show_read_time: false
 ---
