@@ -29,4 +29,8 @@ sections:
         **Echols Scholars Program Ambassador**  
         Echols Scholars Program, University of Virginia  
         Oct 2019 – May 2023
+    design:
+      columns: '1'
+      # Add this line to expand the content area
+      placement: 2       
 ---
