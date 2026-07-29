@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://meghankgerety.com/'
 
 ############################
 ## LANGUAGE
@@ -64,7 +64,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-marketing:
-  seo:
-    image: "android-chrome-512x512.png"
