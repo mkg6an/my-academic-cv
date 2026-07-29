@@ -128,7 +128,6 @@ hugoblox:
   seo:
     # Browser tab title override (defaults to identity.name if not set)
     title: ""
-    image: "media/android-chrome-512x512.png"
     # For local_business identity type only
     location:
       address:
