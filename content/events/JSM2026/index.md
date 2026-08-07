@@ -30,7 +30,7 @@ tags:
   - [talk]
 
 image:
-  caption: 'JSM 2026 Talk Preview'
+  caption: 'Image Credit: American Statistical Association'
   focal_point: Right
 
 links:
