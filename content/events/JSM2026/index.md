@@ -36,6 +36,8 @@ image:
 links:
   - name: Session Info
     url: https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=7053
+  - name: Slides
+    url: uploads/JSM2026.pdf
 
 projects: []
 ---

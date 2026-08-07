@@ -66,7 +66,7 @@ sections:
       filters:
         folders:
           - events
-      count: 1
+      count: 0
       sort_by: 'date'
       sort_ascending: false
     design:
