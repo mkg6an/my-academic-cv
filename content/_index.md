@@ -62,11 +62,11 @@ sections:
   - block: collection
     id: upcoming-talks
     content:
-      title: Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - events
-      count: 0
+      count: 1
       sort_by: 'date'
       sort_ascending: false
     design:
