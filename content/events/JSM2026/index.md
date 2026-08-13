@@ -30,7 +30,7 @@ tags:
   - [talk]
 
 image:
-  caption: 'Image Credit: American Statistical Association'
+  caption: 'Introducing Target Trial Emulation at JSM 2026'
   focal_point: Right
 
 links:
