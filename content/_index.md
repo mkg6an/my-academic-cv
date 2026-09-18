@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: upcoming-talks
     content:
-      title: Recent Talks
+      title: Upcoming Talks
       filters:
         folders:
           - events
